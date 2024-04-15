@@ -20,3 +20,7 @@ console.log(typeof score);
  let stringNumber = String(someNumber)
  console.log(stringNumber);
  console.log(typeof stringNumber);
+
+ let value =3
+ let negvalue =-3
+ console.log(negvalue);
